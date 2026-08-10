@@ -46,6 +46,7 @@ The application uses a data science job postings dataset to analyze technical sk
 ## Deployment
 
 The application is deployed using Streamlit Community Cloud.
+**Live App:** https://ai-job-skill-recommendation.streamlit.app/
 
 ## Project Status
 
